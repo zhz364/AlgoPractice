@@ -38,7 +38,7 @@ class linkedList:
                     currNode = currNode.next
             else:
                 prev = currNode
-                currNode = currNode.next
+                currNode = currNode.next    
 
             
 # delete root node
